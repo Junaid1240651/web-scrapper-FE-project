@@ -1,0 +1,938 @@
+[
+  {
+    "productName": "Cauliflower (Hoo Kosu)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/d09c188edec2c8652bc56594b7ae57af",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹19",
+    "orignalPrice": "₹38",
+    "categoryName": "Fresh Vegetables",
+    "scrappedDate": "2025-04-25T17:32:57.297Z"
+  },
+  {
+    "productName": "Baby Lady's Finger (Bendekaayi)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/8c2d1c51480a9fa40093fcef4b53556c",
+    "discountPercentage": "57%",
+    "discountedPrice": "₹9",
+    "orignalPrice": "₹21",
+    "categoryName": "Fresh Vegetables",
+    "scrappedDate": "2025-04-25T17:32:57.300Z"
+  },
+  {
+    "productName": "Chandramukhi Potato (Aloo Gadde)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/18/c889d386-1a23-4267-b552-3cfc26a4dcdf_freshvegetables_ZKLINGWTT2_MN.png",
+    "discountPercentage": "67%",
+    "discountedPrice": "₹29",
+    "orignalPrice": "₹89",
+    "categoryName": "Fresh Vegetables",
+    "scrappedDate": "2025-04-25T17:32:57.316Z"
+  },
+  {
+    "productName": "Mint Leaves & Coriander Leaves",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/24/bf135416-ace3-4648-a8c8-83972891a6e5_582833.png",
+    "discountPercentage": "55%",
+    "discountedPrice": "₹15",
+    "orignalPrice": "₹34",
+    "categoryName": "Fresh Vegetables",
+    "scrappedDate": "2025-04-25T17:32:57.320Z"
+  },
+  {
+    "productName": "Pooja Coconut (Small)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/36d275a92e14cb287ac200ed25454e9a",
+    "discountPercentage": "64%",
+    "discountedPrice": "₹54",
+    "orignalPrice": "₹150",
+    "categoryName": "Fresh Vegetables",
+    "scrappedDate": "2025-04-25T17:32:57.330Z"
+  },
+  {
+    "productName": "Mint - Without Roots (Pudina)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/5d969b69e639cee524ebce0d7adc30ac",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹9",
+    "orignalPrice": "₹19",
+    "categoryName": "Leafy and Seasonings",
+    "scrappedDate": "2025-04-25T17:34:38.589Z"
+  },
+  {
+    "productName": "Mint - Without Roots (Pudina)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/5d969b69e639cee524ebce0d7adc30ac",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹9",
+    "orignalPrice": "₹19",
+    "categoryName": "Leafy and Seasonings",
+    "scrappedDate": "2025-04-25T17:40:18.094Z"
+  },
+  {
+    "productName": "Coriander Leaves (Kotthambari)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/5abfb3f08ea92d31125ca290bb0edc1b",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹15",
+    "orignalPrice": "₹30",
+    "categoryName": "Leafy and Seasonings",
+    "scrappedDate": "2025-04-25T17:40:18.105Z"
+  },
+  {
+    "productName": "Baby Corn Peeled",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/16ea0e6fbd36e71e2d1845fc92dca528",
+    "discountPercentage": "59%",
+    "discountedPrice": "₹29",
+    "orignalPrice": "₹71",
+    "categoryName": "Exotic Vegetables",
+    "scrappedDate": "2025-04-25T17:44:06.883Z"
+  },
+  {
+    "productName": "Cherry Tomato",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/f958eafb4f0408125816ef94400f7aa7",
+    "discountPercentage": "53%",
+    "discountedPrice": "₹19",
+    "orignalPrice": "₹41",
+    "categoryName": "Exotic Vegetables",
+    "scrappedDate": "2025-04-25T17:44:06.883Z"
+  },
+  {
+    "productName": "Ratnagiri Alphonso by Dev Mango (Mavinahannu)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/6/8c4a1829-a759-4d4a-be32-0f1dada248e0_freshfruits_7WFIZIDD00_MN.png",
+    "discountPercentage": "80%",
+    "discountedPrice": "₹119",
+    "orignalPrice": "₹624",
+    "categoryName": "Summer Fruits",
+    "scrappedDate": "2025-04-25T17:44:39.111Z"
+  },
+  {
+    "productName": "Pumpkin Cut by Urban Harvest",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/8e907fc7dea6bcc9f6a1178c206823da",
+    "discountPercentage": "62%",
+    "discountedPrice": "₹19",
+    "orignalPrice": "₹50",
+    "categoryName": "Cuts & sprouts",
+    "scrappedDate": "2025-04-25T17:45:27.032Z"
+  },
+  {
+    "productName": "Coconut Chunks by Urban Harvest",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/a8ee341c1c4c915ae42e96332e279c8d",
+    "discountPercentage": "61%",
+    "discountedPrice": "₹29",
+    "orignalPrice": "₹76",
+    "categoryName": "Cuts & sprouts",
+    "scrappedDate": "2025-04-25T17:45:27.034Z"
+  },
+  {
+    "productName": "Marigold Flower Mix (Fresh)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/f033983cf178b79538450b3f058ba047",
+    "discountPercentage": "70%",
+    "discountedPrice": "₹9",
+    "orignalPrice": "₹30",
+    "categoryName": "Pooja & Festive",
+    "scrappedDate": "2025-04-25T17:45:55.244Z"
+  },
+  {
+    "productName": "White Shevanti Flower (Chrysanthemum)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/6cfcb39df77cd7859ad4a17ca1cc92dd",
+    "discountPercentage": "61%",
+    "discountedPrice": "₹19",
+    "orignalPrice": "₹49",
+    "categoryName": "Pooja & Festive",
+    "scrappedDate": "2025-04-25T17:45:55.247Z"
+  },
+  {
+    "productName": "Rose Artificial Flower Set",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/58fb03624fe6f446bb7bbe02ce77e03c",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹199",
+    "orignalPrice": "₹399",
+    "categoryName": "Pooja & Festive",
+    "scrappedDate": "2025-04-25T17:45:55.257Z"
+  },
+  {
+    "productName": "Mint Leaves & Coriander Leaves",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/24/bf135416-ace3-4648-a8c8-83972891a6e5_582833.png",
+    "discountPercentage": "55%",
+    "discountedPrice": "₹15",
+    "orignalPrice": "₹34",
+    "categoryName": "Combos",
+    "scrappedDate": "2025-04-25T17:47:06.745Z"
+  },
+  {
+    "productName": "Ratnagiri Alphonso by Dev Mango (Mavinahannu)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/6/8c4a1829-a759-4d4a-be32-0f1dada248e0_freshfruits_7WFIZIDD00_MN.png",
+    "discountPercentage": "80%",
+    "discountedPrice": "₹119",
+    "orignalPrice": "₹624",
+    "categoryName": "Fresh Fruits",
+    "scrappedDate": "2025-04-25T17:48:45.072Z"
+  },
+  {
+    "productName": "Vietnam Early Wonder Jack Fruit Bulb",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/e59d4878483f8cafdafc2d4164408024",
+    "discountPercentage": "75%",
+    "discountedPrice": "₹39",
+    "orignalPrice": "₹161",
+    "categoryName": "Fresh Fruits",
+    "scrappedDate": "2025-04-25T17:48:45.096Z"
+  },
+  {
+    "productName": "Jivo Daily Cooking Pomace Olive Oil",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/15/fd1c92da-3327-4aa6-a8c6-1b47349ca1bc_cookingandedibleoils_97I8WX56K7_MN.png",
+    "discountPercentage": "62%",
+    "discountedPrice": "₹398",
+    "orignalPrice": "₹1049",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:51:12.507Z"
+  },
+  {
+    "productName": "Jivo Extra Light Daily Cooking Olive Oil",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/z89a4dpw9tupoz16dsuc",
+    "discountPercentage": "65%",
+    "discountedPrice": "₹515",
+    "orignalPrice": "₹1499",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:51:12.511Z"
+  },
+  {
+    "productName": "Jivo Cold Pressed oil Groundnut Oil",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/5/27/8eaa54bb-0177-40f3-b5fe-6641cccc7b20_cookingandedibleoils_DJYHA6C93R_MN.png",
+    "discountPercentage": "53%",
+    "discountedPrice": "₹1292",
+    "orignalPrice": "₹2800",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:51:12.516Z"
+  },
+  {
+    "productName": "Jivo Extra Light Edible Olive Oil Ideal for Everyday Indian Cooking",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/930cb05e99080c775abb75b7c4d2f6a2",
+    "discountPercentage": "60%",
+    "discountedPrice": "₹2573",
+    "orignalPrice": "₹6499",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:51:12.517Z"
+  },
+  {
+    "productName": "Supreme Harvest Mustard Small Whole",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/25/2778826b-2401-477c-8073-f317905677a4_31255_1.png",
+    "discountPercentage": "63%",
+    "discountedPrice": "₹17",
+    "orignalPrice": "₹46",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:51:48.383Z"
+  },
+  {
+    "productName": "True Elements True elements Quinoa 1kg , Gluten free , High fibre , High Protein",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/320e1da6111b4ec358db47ea1b63bdf1",
+    "discountPercentage": "54%",
+    "discountedPrice": "₹299",
+    "orignalPrice": "₹650",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:52:09.654Z"
+  },
+  {
+    "productName": "True Elements 100% Rolled Oats",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/4/169eb8a5-e85c-4f79-b113-6fa4d1bea41c_17010_3.png",
+    "discountPercentage": "51%",
+    "discountedPrice": "₹98",
+    "orignalPrice": "₹200",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:52:09.659Z"
+  },
+  {
+    "productName": "Yogabar 100% Rolled Oats Premium Golden Oats, Gluten Free With High Fibre",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/10/1/e15ca794-27c8-40a8-99db-8e949b6b553a_6NXVHXI1Y3_mn.jpg",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹245",
+    "orignalPrice": "₹490",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:52:09.664Z"
+  },
+  {
+    "productName": "Disano Natural Peanut Butter Crunchy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/9/fc3df35d-ebeb-494c-a2ea-74c99b3b23cb_116864_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹250",
+    "orignalPrice": "₹500",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:52:09.665Z"
+  },
+  {
+    "productName": "Rehaan 1121 Classic Extra Long Grain Biryani Basmati Rice 1kg",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/23/da598e45-4e65-4dd5-b951-8dfc495e23de_833260_1.png",
+    "discountPercentage": "56%",
+    "discountedPrice": "₹109",
+    "orignalPrice": "₹250",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:52:59.436Z"
+  },
+  {
+    "productName": "Rehaan 1121 Classic Extra Long Grain Biryani Basmati Rice",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/23/9ae6728a-e519-43bb-a8fb-49e30e90a576_310562_1.png",
+    "discountPercentage": "54%",
+    "discountedPrice": "₹549",
+    "orignalPrice": "₹1200",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:52:59.438Z"
+  },
+  {
+    "productName": "Kitchen gems KITCHEN GEMS Groundnut (Raw Peanut)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/8/12/5a1ba4d2-92a3-4ed1-b128-0b0141143cbc_27577_1.png",
+    "discountPercentage": "54%",
+    "discountedPrice": "₹117",
+    "orignalPrice": "₹255",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:52:59.478Z"
+  },
+  {
+    "productName": "921 Rozana Broken Basmati Rice",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/23/832bfb0f-01bf-4af4-a7e4-ec16ad74ab2d_296046_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹59",
+    "orignalPrice": "₹125",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:52:59.517Z"
+  },
+  {
+    "productName": "921 Classic Xxxl Extra Long Grain Biryani 1121 Basmati Rice",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/9/23/e17f6c8e-bbe1-4764-ad7d-d007a6f4d33c_402590_1.png",
+    "discountPercentage": "53%",
+    "discountedPrice": "₹649",
+    "orignalPrice": "₹1400",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:52:59.525Z"
+  },
+  {
+    "productName": "Unibic Cake - Royal Vanilla",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/9853358c-0053-431d-86a5-c2725ad6e984_58084_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Cakes and Muffins",
+    "scrappedDate": "2025-04-25T17:54:16.848Z"
+  },
+  {
+    "productName": "Unibic Cake - Fruit N Nut",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/4e08d023-312f-4d96-a79e-a2d33aa311c4_90139_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Cakes and Muffins",
+    "scrappedDate": "2025-04-25T17:54:16.851Z"
+  },
+  {
+    "productName": "Unibic Cake - Dates & Carrot",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/a1a0d185-14a2-4939-be08-3737f7fa5e50_88441_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Cakes and Muffins",
+    "scrappedDate": "2025-04-25T17:54:16.860Z"
+  },
+  {
+    "productName": "Sunfeast Mom's Magic Cashew Almond",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/1/2d5a2f3b-d233-47eb-a905-7bdb4e2481ee_biscuits_6TOHOH6ZJM_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹145",
+    "orignalPrice": "₹290",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.410Z"
+  },
+  {
+    "productName": "Parle Hide & Seek Milano Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/9/66d71f05-3c71-488a-a6b5-fefd50daea11_24371_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹60",
+    "orignalPrice": "₹120",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.413Z"
+  },
+  {
+    "productName": "Unibic Cashew Badam Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/2c542018-dcbb-47e1-bc14-e59952c17fca_25431_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹67",
+    "orignalPrice": "₹135",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.420Z"
+  },
+  {
+    "productName": "Unibic Danish Coconut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/1d63a0c5-e236-4661-a570-e5f8182a3ee6_36342_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.422Z"
+  },
+  {
+    "productName": "Unibic Chocolate Chip Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/3a5cd2def1dad4ac38983b6df2ed8d63",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.424Z"
+  },
+  {
+    "productName": "Britannia Tiger Krunch Chocochip Biscuits",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/12/224b834a-5403-416e-8975-8208847e21b0_biscuits_PK97C07FVJ_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.425Z"
+  },
+  {
+    "productName": "Britannia Good Day Fruit & Nut Cookies | Zero Trans Fat",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/23/3cff418d-df19-4d89-aae6-623e477cd28b_86450_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹180",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.426Z"
+  },
+  {
+    "productName": "Unibic Fruit & Nut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/f13d77e6-e391-48b5-b0a8-0741a389972a_55789_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.428Z"
+  },
+  {
+    "productName": "Unibic Cashew Badam Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/7979b5a1c176c1470a3b93e9e03b55cd",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹80",
+    "orignalPrice": "₹160",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.429Z"
+  },
+  {
+    "productName": "Unibic Fruit And Nut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/12/098f14ec-8da0-49ec-9a5b-b33a28370f8b_87416_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹100",
+    "orignalPrice": "₹200",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.439Z"
+  },
+  {
+    "productName": "Unibic Choco Chip Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/12/87a1a340-5f68-4223-a349-6743ceec4bea_417_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹100",
+    "orignalPrice": "₹200",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.439Z"
+  },
+  {
+    "productName": "Parle Krackjack Butter Masala",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/6/0b8aec6d-e450-4ca6-9127-7a246aafb0a5_84313_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.450Z"
+  },
+  {
+    "productName": "Britannia Good Day Butter Jeera Cookies | Zero Trans Fat",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/23/649d48e3-6b65-4e14-af19-60b7a330bdca_49208_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹180",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.464Z"
+  },
+  {
+    "productName": "Unibic Cookie Magic | Premium Gift Pack",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/10/28/5e30a562-a562-4f5b-bf59-3af6f2c528cc_11060_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹184",
+    "orignalPrice": "₹369",
+    "categoryName": "Cookies and Biscotti",
+    "scrappedDate": "2025-04-25T17:55:02.465Z"
+  },
+  {
+    "productName": "The Bread Republic Garlic Bread (Whole Wheat, No Palm Oil)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/8/13/82aa6ee0-f75b-4e92-ba1c-a8113959d0f7_1PUUDJ8VJW_MN.jpg",
+    "discountPercentage": "54%",
+    "discountedPrice": "₹45",
+    "orignalPrice": "₹99",
+    "categoryName": "Sliced Breads",
+    "scrappedDate": "2025-04-25T17:55:27.732Z"
+  },
+  {
+    "productName": "Sunfeast Mom's Magic Cashew Almond",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/1/2d5a2f3b-d233-47eb-a905-7bdb4e2481ee_biscuits_6TOHOH6ZJM_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹145",
+    "orignalPrice": "₹290",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.348Z"
+  },
+  {
+    "productName": "Parle Hide & Seek Milano Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/9/66d71f05-3c71-488a-a6b5-fefd50daea11_24371_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹60",
+    "orignalPrice": "₹120",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.350Z"
+  },
+  {
+    "productName": "Parle Hide & Seek Creme",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/hwolinrzmlziaa0tt6gv",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.352Z"
+  },
+  {
+    "productName": "Unibic Qubz - Belgium Chocolate",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/d2dc187f59ca5ea4b227306282e36f22",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.353Z"
+  },
+  {
+    "productName": "Parle Monaco Piri Piri",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/10/50f7c0b1-40a6-49ac-9a60-4f2a86b935e9_biscuits_RYUUDN7YGS_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹25",
+    "orignalPrice": "₹50",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.354Z"
+  },
+  {
+    "productName": "Unibic Cashew Badam Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/2c542018-dcbb-47e1-bc14-e59952c17fca_25431_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹67",
+    "orignalPrice": "₹135",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.355Z"
+  },
+  {
+    "productName": "Unibic Date Filled Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/15/3baf67d3-0782-40e6-8227-ce5137674f70_biscuits_Y7AR89RWJJ_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹65",
+    "orignalPrice": "₹130",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.356Z"
+  },
+  {
+    "productName": "Unibic Fruit & Nut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/f13d77e6-e391-48b5-b0a8-0741a389972a_55789_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.357Z"
+  },
+  {
+    "productName": "Unibic Cashew Badam Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/7979b5a1c176c1470a3b93e9e03b55cd",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹80",
+    "orignalPrice": "₹160",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.359Z"
+  },
+  {
+    "productName": "Unibic Cake - Fruit N Nut",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/4e08d023-312f-4d96-a79e-a2d33aa311c4_90139_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.359Z"
+  },
+  {
+    "productName": "Unibic Danish Coconut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/1d63a0c5-e236-4661-a570-e5f8182a3ee6_36342_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.360Z"
+  },
+  {
+    "productName": "Sunfeast Farmlite High Fiber Digestive Pouch",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/11/1b853064-6acd-411c-949f-fefc9140e724_21281_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹113",
+    "orignalPrice": "₹240",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.361Z"
+  },
+  {
+    "productName": "Unibic Chocolate Chip Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/3a5cd2def1dad4ac38983b6df2ed8d63",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹82",
+    "orignalPrice": "₹165",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.362Z"
+  },
+  {
+    "productName": "Britannia Tiger Krunch Chocochip Biscuits",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/12/224b834a-5403-416e-8975-8208847e21b0_biscuits_PK97C07FVJ_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.364Z"
+  },
+  {
+    "productName": "Unibic Choco Chip Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/12/87a1a340-5f68-4223-a349-6743ceec4bea_417_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹100",
+    "orignalPrice": "₹200",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.364Z"
+  },
+  {
+    "productName": "Britannia Good Day Fruit & Nut Cookies | Zero Trans Fat",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/23/3cff418d-df19-4d89-aae6-623e477cd28b_86450_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹180",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.365Z"
+  },
+  {
+    "productName": "Parle Fab Bourbon",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/9/0deed368-bc9e-49d7-974a-01f2ea038dc1_19880_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹80",
+    "orignalPrice": "₹160",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.366Z"
+  },
+  {
+    "productName": "Unibic Choco Kiss",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/4/16/de1f5b53-2094-4d19-bd6f-4eb5296a3b5f_biscuits_CYM9BTWMKU_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹170",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.367Z"
+  },
+  {
+    "productName": "Unibic Fruit And Nut Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/2/12/098f14ec-8da0-49ec-9a5b-b33a28370f8b_87416_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹100",
+    "orignalPrice": "₹200",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.368Z"
+  },
+  {
+    "productName": "Parle Nutricrunch Digestive Cookies Pouch",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/26/eae7a245-3425-47f0-9ada-2425b2cb710d_19873_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹160",
+    "orignalPrice": "₹320",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.368Z"
+  },
+  {
+    "productName": "Unibic Cake - Royal Vanilla",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/9853358c-0053-431d-86a5-c2725ad6e984_58084_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.369Z"
+  },
+  {
+    "productName": "Britannia Treat Choco Creme Sandwich Biscuits",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/29/c318b38d-5a2d-48b6-b209-1a32329642d7_63127_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹90",
+    "orignalPrice": "₹180",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.370Z"
+  },
+  {
+    "productName": "Unibic Cake - Dates & Carrot",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/22/a1a0d185-14a2-4939-be08-3737f7fa5e50_88441_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹125",
+    "orignalPrice": "₹250",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.371Z"
+  },
+  {
+    "productName": "Britannia Treat Vanilla Creme Sandwich Biscuits",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/2/bd58425f-52ca-4f12-b59b-2da25338397d_96081_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹90",
+    "orignalPrice": "₹180",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.371Z"
+  },
+  {
+    "productName": "Unibic Oatmeal Digestive Cookies",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/20/978071f8-cda9-4109-80f3-2ba49d7cb67c_biscuits_9YZNGCGQP6_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹150",
+    "orignalPrice": "₹300",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.373Z"
+  },
+  {
+    "productName": "Britannia Good Day Butter Jeera Cookies | Zero Trans Fat",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/23/649d48e3-6b65-4e14-af19-60b7a330bdca_49208_1.png",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹180",
+    "categoryName": "Crazy Deals",
+    "scrappedDate": "2025-04-25T17:55:49.375Z"
+  },
+  {
+    "productName": "Continental Xtra Instant Coffee Pouch",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/9c85e84246e46642f61117dfe7398bd8",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹110",
+    "orignalPrice": "₹220",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:56:13.791Z"
+  },
+  {
+    "productName": "Healthsootra Organic Chia Seeds",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/c3838216eead7c9a886310e44c899ab9",
+    "discountPercentage": "52%",
+    "discountedPrice": "₹109",
+    "orignalPrice": "₹230",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:56:32.725Z"
+  },
+  {
+    "productName": "Prasuma Chicken Breakfast Sausage Super Saver Pack",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/24/d37565e9-009a-4b0f-a74b-f5b3376b61c4_Z45RAI9YT1_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹312",
+    "orignalPrice": "₹625",
+    "categoryName": "Frozen Food",
+    "scrappedDate": "2025-04-25T17:57:32.678Z"
+  },
+  {
+    "productName": "Prasuma Super Saver Chicken Momo Pack (Chef Momos)",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/11/10/46aa2006-78b0-46d4-a85e-42c908652dd8_750414_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹350",
+    "orignalPrice": "₹700",
+    "categoryName": "Frozen Food",
+    "scrappedDate": "2025-04-25T17:57:32.689Z"
+  },
+  {
+    "productName": "Meatzza Chicken Nuggets",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/6/1634e9fe-f659-4862-b50a-6f2f40b9f980_527051_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹299",
+    "orignalPrice": "₹599",
+    "categoryName": "Frozen Food",
+    "scrappedDate": "2025-04-25T17:57:32.750Z"
+  },
+  {
+    "productName": "Paper Boat Swing Tender Coconut Water Drink",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/4/17/c0e75b85-caad-428e-8650-66263f2cad7e_86209_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹90",
+    "orignalPrice": "₹180",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.714Z"
+  },
+  {
+    "productName": "Paper Boat Swing Zesty Pomegranate",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/czxj4bmuunx6d8rzglll",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹85",
+    "orignalPrice": "₹170",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.722Z"
+  },
+  {
+    "productName": "B Natural Guava Juice, Goodness of fiber",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/6/24/11e60adb-3cb2-4a6f-a645-dd557ac7f9cf_softdrinks-juiceandsoda_1PXYFEILRT_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹70",
+    "orignalPrice": "₹140",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.724Z"
+  },
+  {
+    "productName": "B Natural Mixed Fruit, Goodness of fiber",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/6/24/b7d8f833-6917-4832-b884-5aa25ecec750_softdrinks-juiceandsoda_JV3OC5NHTI_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹70",
+    "orignalPrice": "₹140",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.726Z"
+  },
+  {
+    "productName": "Paper Boat Swing Yummy Guava",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/1/11/e634b6d6-6161-41f9-8a1f-4ea51a5a09e3_18030_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.727Z"
+  },
+  {
+    "productName": "Real Fruit Power Masala Guava Juice, No Added Preservatives",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/e2b3875a9b249a8060257962e89e4590",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.730Z"
+  },
+  {
+    "productName": "B Natural Select - Tender Coconut Water - No Added Sugar,",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/5/14/d6f9f9c3-60ca-42ca-94b6-9dbe258b780c_softdrinks-juiceandsoda_IQHKMO1TBK_MN.png",
+    "discountPercentage": "61%",
+    "discountedPrice": "₹140",
+    "orignalPrice": "₹360",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.739Z"
+  },
+  {
+    "productName": "Yu 100% Natural Coconut Water",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/12/18/27a07e56-d475-4333-8953-019228f4e5e3_881490_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹124",
+    "orignalPrice": "₹250",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.739Z"
+  },
+  {
+    "productName": "Paper Boat Swing Lush Lychee",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/mpglk9a2zha9ry4uhhsx",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Top Deals",
+    "scrappedDate": "2025-04-25T17:58:17.740Z"
+  },
+  {
+    "productName": "HANGYO Sitaphal Tub",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/8/28/9a3ff01e-40f9-40ca-8a25-795056b941d8_530370_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹25",
+    "orignalPrice": "₹50",
+    "categoryName": "Tubs & Party Packs",
+    "scrappedDate": "2025-04-25T17:58:47.125Z"
+  },
+  {
+    "productName": "HANGYO Belgian Chocolate Tub",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/24/c93231d8-0395-4611-9d37-87ce0786ab5a_icecream_BG3QG7IP8O_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹175",
+    "orignalPrice": "₹350",
+    "categoryName": "Tubs & Party Packs",
+    "scrappedDate": "2025-04-25T17:58:47.154Z"
+  },
+  {
+    "productName": "HANGYO Coffee Choco Nuts Tub",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/8/28/16525358-2ab1-417f-96be-c8bafd88ced8_877000_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹150",
+    "orignalPrice": "₹300",
+    "categoryName": "Tubs & Party Packs",
+    "scrappedDate": "2025-04-25T17:58:47.162Z"
+  },
+  {
+    "productName": "Hocco charcoal Lychee Ice Cream Tub",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/11/13/b5013dc1-b723-4f92-9b46-248c2c02f516_696648_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹160",
+    "orignalPrice": "₹320",
+    "categoryName": "Tubs & Party Packs",
+    "scrappedDate": "2025-04-25T17:58:47.169Z"
+  },
+  {
+    "productName": "Huber & Holly Sicilian Pistachio Ice Cream Tub",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/ciw/2025/2/17/41785083-e587-4e29-9c9b-4662f94976ae_124165_1_20250217_135812.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹200",
+    "orignalPrice": "₹400",
+    "categoryName": "Tubs & Party Packs",
+    "scrappedDate": "2025-04-25T17:58:47.171Z"
+  },
+  {
+    "productName": "Let's Try LET'S TRY Masala Puff",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/17/a812d8e6-17f6-4d64-aa2d-9837b5602618_960115_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹30",
+    "orignalPrice": "₹60",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.145Z"
+  },
+  {
+    "productName": "Let's Try Kerala Garlic Mix",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/17/db6cc6bc-c8ed-4d89-b85d-f891eb087f42_66989_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹60",
+    "orignalPrice": "₹120",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.149Z"
+  },
+  {
+    "productName": "Let's Try Peanut Party Mix, Made In Groundnut Oil",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/18/68c42c1c-d86a-4b0e-be07-8782d07552c5_17116_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹75",
+    "orignalPrice": "₹150",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.150Z"
+  },
+  {
+    "productName": "Let's Try LET'S TRY Pudina Rings",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2025/3/18/547fac3d-b4aa-4925-8edb-497c8d02574b_409096_1.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹30",
+    "orignalPrice": "₹60",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.165Z"
+  },
+  {
+    "productName": "Let's Try Crunchy Party Mix, Made In Groundnut Oil",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/818383fdebec4d33f3deca2c0131f3e5",
+    "discountPercentage": "55%",
+    "discountedPrice": "₹135",
+    "orignalPrice": "₹300",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.166Z"
+  },
+  {
+    "productName": "Crax Crunchy Pipes Puffs",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/3/14/f8d1171b-bdc8-434e-a9d9-90e4134bf614_chipsnachosandpopcorn_0M37OF6UXQ_MN.png",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹30",
+    "orignalPrice": "₹60",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:17.168Z"
+  },
+  {
+    "productName": "Sahu Gajak Bhandar Peanut Chikki",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/NI_CATALOG/IMAGES/CIW/2024/11/10/fa098b22-9b4c-4543-9f27-9bd19a40a06f_247520_1.png",
+    "discountPercentage": "69%",
+    "discountedPrice": "₹186",
+    "orignalPrice": "₹600",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:38.949Z"
+  },
+  {
+    "productName": "Bhikharam Chandmal Gulab Jamun B1G1",
+    "productImage": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_272,w_252/9df312aae1bef4475b02d49b5c745206",
+    "discountPercentage": "50%",
+    "discountedPrice": "₹289",
+    "orignalPrice": "₹578",
+    "categoryName": "Bestsellers",
+    "scrappedDate": "2025-04-25T17:59:38.955Z"
+  }
+]

@@ -27,6 +27,7 @@ const App = () => {
   const [filterCategory, setFilterCategory] = React.useState('All');
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(5);
+  const [discountRange, setDiscountRange] = React.useState('All');
 
   const getDataByPlatform = () => {
     switch (platform) {
@@ -60,8 +61,17 @@ const App = () => {
   const filteredData = normalizedData.filter(item => {
     const matchesSearch = item.productName.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesCategory = filterCategory === 'All' || item.categoryName === filterCategory;
-    return matchesSearch && matchesCategory;
+
+    let matchesDiscount = true;
+    if (discountRange !== 'All') {
+      const [min, max] = discountRange.split('-').map(Number);
+      const discount = parseFloat(item.discountPercentage?.replace('%', '')) || 0;
+      matchesDiscount = discount >= min && discount < max;
+    }
+
+    return matchesSearch && matchesCategory && matchesDiscount;
   });
+
 
   const handleChangePage = (event, newPage) => setPage(newPage);
   const handleChangeRowsPerPage = (event) => {
@@ -104,6 +114,22 @@ const App = () => {
             <MenuItem value="Blinkit">Blinkit</MenuItem>
             <MenuItem value="Flipkart">Flipkart</MenuItem>
             <MenuItem value="Instamart">Instamart</MenuItem>
+          </Select>
+        </FormControl>
+
+        <FormControl sx={{ minWidth: 160 }}>
+          <InputLabel>Discount %</InputLabel>
+          <Select
+            value={discountRange}
+            label="Discount %"
+            onChange={(e) => setDiscountRange(e.target.value)}
+          >
+            <MenuItem value="All">All</MenuItem>
+            <MenuItem value="50-60">50–60%</MenuItem>
+            <MenuItem value="60-70">60–70%</MenuItem>
+            <MenuItem value="70-80">70–80%</MenuItem>
+            <MenuItem value="80-90">80–90%</MenuItem>
+            <MenuItem value="90-100">90–100%</MenuItem>
           </Select>
         </FormControl>
 

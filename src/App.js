@@ -72,6 +72,9 @@ const App = () => {
     return matchesSearch && matchesCategory && matchesDiscount;
   });
 
+  React.useEffect(() => {
+    setPage(0);
+  }, [searchTerm, platform, filterCategory, discountRange]);
 
   const handleChangePage = (event, newPage) => setPage(newPage);
   const handleChangeRowsPerPage = (event) => {

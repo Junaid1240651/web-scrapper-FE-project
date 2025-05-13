@@ -52,7 +52,7 @@ const App = () => {
     orignalPrice: item.orignalPrice || item.originalPrice,
     categoryName: item.categoryName || 'Others',
     scrappedDate: item.scrappedDate || item.lastScrapDate,
-    link: item.link || '#',
+    link: item.link || item.productLink || '#',
   }));
 
 

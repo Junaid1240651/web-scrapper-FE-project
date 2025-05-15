@@ -137,10 +137,10 @@ const App = () => {
         </FormControl>
 
         <FormControl sx={{ minWidth: 160 }}>
-          <InputLabel>Category</InputLabel>
+          <InputLabel>Category / Brand</InputLabel>
           <Select
             value={filterCategory}
-            label="Category"
+            label="Category / Brand"
             onChange={(e) => setFilterCategory(e.target.value)}
           >
             {categories.map((cat, idx) => (

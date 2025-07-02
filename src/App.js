@@ -22,6 +22,7 @@ import flipkartProducts from './data/flipkartProductDetails.json';
 import instamartProducts from './data/instamartProductDetails.json';
 import amazonProducts from './data/amazonProductDetails.json';
 import myntraProducts from './data/myntraProductDetails.json';
+import cromaProducts from './data/chromaProductDetails.json'
 
 const App = () => {
   const [platform, setPlatform] = React.useState('Zepto');
@@ -45,6 +46,8 @@ const App = () => {
         return amazonProducts;
       case 'Myntra':
         return myntraProducts;
+      case 'Chroma':
+        return cromaProducts
       default:
         return [];
     }
@@ -125,6 +128,7 @@ const App = () => {
             <MenuItem value="Instamart">Instamart</MenuItem>
             <MenuItem value="Amazon">Amazon</MenuItem>
             <MenuItem value="Myntra">Myntra</MenuItem>
+            <MenuItem value="Chroma">Chroma</MenuItem>
           </Select>
         </FormControl>
 

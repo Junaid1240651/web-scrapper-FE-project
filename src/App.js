@@ -55,7 +55,7 @@ const App = () => {
   // Normalize data
   const normalizedData = getDataByPlatform().map((item) => ({
     productImage: item.productImage || item.image,
-    productName: item.productName || item.name,
+    productName: (item.productName || item.name || '').trim(),
     discountPercentage: item.discountPercentage,
     discountedPrice: item.discountedPrice,
     orignalPrice: item.orignalPrice || item.originalPrice,
@@ -64,10 +64,50 @@ const App = () => {
     link: item.link || item.productLink || '#',
   }));
 
+  // Deduplicate and highlight best deals
+  const dedupedData = Object.values(
+    normalizedData.reduce((acc, item) => {
+      const key = item.productName.toLowerCase();
+      if (!acc[key]) {
+        acc[key] = [];
+      }
+      acc[key].push(item);
+      return acc;
+    }, {})
+  ).flatMap((group) => {
+    // If all entries have the same price and discount, skip this group
+    const allSame = group.every(
+      (item) =>
+        item.discountedPrice === group[0].discountedPrice &&
+        item.discountPercentage === group[0].discountPercentage
+    );
+    if (group.length > 1 && allSame) {
+      return []; // skip this group
+    }
+    // Remove exact duplicates (same price and discount)
+    const unique = [];
+    group.forEach((item) => {
+      if (!unique.some(u => u.discountedPrice === item.discountedPrice && u.discountPercentage === item.discountPercentage)) {
+        unique.push(item);
+      }
+    });
+    // If only one unique, return it
+    if (unique.length === 1) return unique;
+    // Otherwise, find the highest discount and lowest price
+    let maxDiscount = Math.max(...unique.map(u => parseFloat(u.discountPercentage?.replace('%', '') || 0)));
+    let minPrice = Math.min(...unique.filter(u => parseFloat(u.discountPercentage?.replace('%', '') || 0) === maxDiscount).map(u => parseFloat(u.discountedPrice)));
+    // Return only those with max discount and min price
+    return unique.filter(u => {
+      const discount = parseFloat(u.discountPercentage?.replace('%', '') || 0);
+      const price = parseFloat(u.discountedPrice);
+      return discount === maxDiscount && price === minPrice;
+    });
+  });
 
-  const categories = ['All', ...new Set(normalizedData.map(item => item.categoryName))];
 
-  const filteredData = normalizedData.filter(item => {
+  const categories = ['All', ...new Set(dedupedData.map(item => item.categoryName))];
+
+  const filteredData = dedupedData.filter(item => {
     const matchesSearch = item.productName.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesCategory = filterCategory === 'All' || item.categoryName === filterCategory;
 
